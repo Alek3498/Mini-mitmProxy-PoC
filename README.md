@@ -48,29 +48,29 @@ Both are running on the same PC
 
 *./Mini-mitmproxy-PoC/*
 
-01-browser-certificate_settings.png
+*01-browser-certificate_settings.png*
 
-02-browser-proxy_settings.png
+*02-browser-proxy_settings.png*
 
-03-mitmproxy-browser-cyberChef-01.png
+*03-mitmproxy-browser-cyberChef-01.png*
 
-04-mitmproxy-browser-cyberChef-cert_details-02.png
+*04-mitmproxy-browser-cyberChef-cert_details-02.png*
 
-05-mitmproxy-cyberChef-traffic-01.png
+*05-mitmproxy-cyberChef-traffic-01.png*
 
-06-mitmproxy-cyberChef-original_cert_details-01.png
+*06-mitmproxy-cyberChef-original_cert_details-01.png*
 
-07-mitmproxy-imperv-01.png
+*07-mitmproxy-imperv-01.png*
 
-08-mitmproxy-imperv-02.png
+*08-mitmproxy-imperv-02.png*
 
-09-mitmproxy-imperva_login_sniffing_cert_details-01.png
+*09-mitmproxy-imperva_login_sniffing_cert_details-01.png*
 
-09-mitmproxy-imperva_login_sniffing_details-01.png
+*09-mitmproxy-imperva_login_sniffing_details-01.png*
 
-09-mitmproxy-imperva_login_sniffing_traffic-01.png
+*09-mitmproxy-imperva_login_sniffing_traffic-01.png*
 
-README.md
+*README.md*
 
 ***Notes:***
 1. All png files are screenshots taken during the testings that 
