@@ -78,10 +78,7 @@ proof that this PoC works
 
 	
 ## HAPPY INTERCEPTION!!!	:-)
-	
-	
 
-	i
 	
 	
 	
